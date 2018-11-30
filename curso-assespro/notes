@@ -1,0 +1,65 @@
+Data: 22/11/2018 
+Participantes: Luís Felipe (Clic) e Diogo (Otus)
+Realização: Assespro
+Tema: Lei Geral de Proteção de Dados - LGPD
+
+
+LEI GERAL DE PROTEÇÃO DE DADOS
+
+
+Sugestão de leitura dos artigos: 1, 7, 6, 17 ao 22, 11/14/33, 38, 37, 41
+
+LGPD baseada na GDPR (Européia) como uma necessidade, quase que imposição, ao país para se adaptar e não tanto pela percepção nacional da necessidade.
+
+Cria a figura do DPO (Data Protection Officer): encarregado na empresa por cuidar das questões relativas à LGPD, que envolve a própria adaptação à lei e questões de segurança da informação, a figura deve ter autonomia e poder de veto na empresa, ser qualificada para a função (devendo a empresa qualificar o profissional com treinamentos específicos para adaptação à lei) e possui estabilidade profissional quando no cargo. O profissional terá seu nome e CPF divulgado no site da empresa e responderá inclusive criminalmente em casos de negligência, no Brasil o profissional deve existir em todas as empresas, diferentemente da lei aprovada na União Européia. A ASSESPRO fará um treinamento para qualificar esses profissionais provavelmente em janeiro de 2019.
+
+Tópicos importantes: 
+Confirmação da existência de tratamento de dados
+Anomização de dados
+Eliminação (delete) de dados
+Correção de dados errados
+Portabilidade de dados para outras empresas
+Possibilidade de revogar consentimento de uso
+Dar consentimento
+Reclamações à autoridade fiscalizadora
+Oposição ao tratamento irregular de dados
+
+
+Autoridade fiscalizadora: foi vetada na lei, porém ela deve existir e ser criada.
+
+Todos os dados de usuários utilizados pelas empresas devem ter o consentimento deles e a empresa precisa armazenar a informação, seja a origem por e-mail, chat ou voz, no caso de voz deve informar a gravação do contato, o objetivo da utilização dos dados deve ser claro e específico, o usuário pode ter a opção de deletar e extrair esses dados e mudar as opções de consentimento, isso inclui usuários logados ou não, por isso a necessidade de habilitar cookies (sugestão de ferramenta para isso cookiebot), o IP é considerado dado sensível, assim como quaisquer informações de usuários mesmo que não logados. É necessário ter uma gestão de todos os acessos e controlar inclusive o fluxo de dados e informações dentro da empresa. É considerado vazamento de dados inclusive o acesso indevido de alguém de dentro da empresa, uma planilha enviada errada ou um acesso de alguém sem autorização. 
+
+Sugestão de colocar todos os contatos em blacklist e começar o trabalho de solicitação de consentimento e preferências. 
+
+Se tivermos um usuário acessando nosso site ao sistema que seja da União Europeia devemos estar dentro da GDPR.
+
+Cria as figuras do processador de dados, do “dono” dos dados e do DPO.
+
+Importante começar a adaptação desde agora e inclusive divulgar para nossos usuários como uma empresa transparente e atenta à LGPD.
+
+Perguntas para nos fazermos:
+O que é coletado?
+Como é tratado? 
+Quais os consentimentos necessários?
+Tenho os consentimentos dos usuários (de forma clara e específica)?
+Estou bem amarrado para justificar uma não exclusão de dados? 
+Como vou comunicar um eventual vazamento (72h)?
+Como vou me proteger e monitorar vazamentos?
+Qual o impacto da legislação para empresas que tambem se enquadram em P&D devido a diferença de regras para obtenção de dados?
+
+Check list:
+- Rever contratos com fornecedores e terceiros com acesso e eventual tratamento de dados
+- Rever aceites de usuário de forma clara e específica (os aceitas não podem estar marcados por padrão o usuário precisa marcar)
+- Rever NDA’s internos também
+- Mapear todos os contratos.
+
+Ferramenta - data loss prevention 
+Ferramenta para ver se você já teve seus dados vazados?
+
+Dúvidas pessoais:
+- Como fica a questão da inserção de dados de outras pessoas no nosso sistema por nossos usuários
+- Como fica o consumo de dados de empresas como Serasa, eles têm o aceite dos usuários? De vem os dados deles?
+- A exposição do DPO não seria prejudicial para a empresa, risco de engenharia social e tentativa de hacker o responsável? Não seria melhor criar um setor DPO tipo ouvidoria? 
+
+
+Links interessantes: https://legalcloud.com.br/lei-geral-de-protecao-de-dados-resumo-lgpd/
